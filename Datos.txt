@@ -1,20 +1,100 @@
 Nombre: ArtStar Games (Provisional)
 
-Epoca: Medieval
+Juego: Old World: Apocalypse
+
+Epoca: Antigua
 
 Estilo: Monster Hunter 
 
+Historia:
+
+- Mundo donde los humanos viven en tribus/Regiones y conviven con los monstruos/Animales, existe un organo de investigación de estos monstruos
+  llamada "insertar nombre" que se encarga de la investigación de los animales. Nos centraremos en uno de estos pueblos que lucha por la supervivencia
+  contra los monstruos, en el pueblo hay varias figuras reconocidas, "Hombre de 20 masao" como el cazador principal de la aldea, "mujer de 20"
+  que es la alquimista/medica de la aldea, "Hombre sabio" como el antiguo cazador y lider de la aldea y "hombre/mujer de 40" como el cazador legendario
+  que vive en la aldea.
+  Parece que la gran ciudad (el centro del mundo) esta en peligro, las tierras de este mundo estan en peligro por un peligroso enemigo (monstruo) y 
+  la aldea hará todo lo posible por salvar el mundo.
+
 Personajes:
 
--
+- Hombre de 20 tantos masao:
 
--
+	Historia:
+	
+	- Principal cazador de la aldea, se llama "inserta nombre", se encarga de organizar la caza
 
--
+	Assets:
 
--
+	- Hacha mamadisima (monster hunter)
 
--
+	- Bandana zoro One Piece
+
+	Mides: 1.90m, 90kg
+
+- Mujer de 20 tantos (puede k no tan masao)
+
+	Historia:
+	
+	- Medico y alquimista de la aldea, se encarga de curar y hacer experimentos con materiales altamente peligrosos (explosivos XD)
+
+	Assets:
+
+	- Batcinturon (frascos de cosas)
+
+	- Bolso/Riño con herramientas
+
+	- Honda
+	
+	Mides: 1.75m, 70kg
+
+- Abuelete sabio del pueblo
+
+	Historia:
+	
+	- Lider del pueblo y lider de los pescadores, se encarga de tomar decisiones que afecten al pueblo y es el que se encarga de la pesca
+
+	Assets:
+
+	- Baston de sabio (Maestro roshi/ el de jurasic park)
+
+	- Pipa de fumar
+
+	- Caña de pescar
+
+	Mides: 1.60m, 80kg
+
+- niño/niña explorador
+
+ 	Historia:
+	
+	- niño que vive en la aldea y le gusta meterese en problemas, de mayor quiere ser un gran explorador y cazador
+
+	Assets:
+
+	- Casco/Sombrero explorador
+
+	- Tirachinas
+	
+	- Daga/Cuchillo pequeño
+
+	- Bolsa con papel y lapices para dibujar
+
+	Mides: 1.30m, 35kg
+
+- Hobre/Mujer cuarentón 
+
+	Historia:
+	
+	- El legendario cazador, assesor en la caza y ayuda cuando la aldea está en problemas
+
+	Assets:
+
+	- Arco (Brave/Legolas)
+
+	- Guantes con armadura con pinchos en el brazo
+
+	Mides: 1.70m, 80kg
 
 Paisajes:
 
@@ -26,7 +106,7 @@ Paisajes:
 
 - Ciudad/Castillo
 
--
+- Desierto/Prado
 
 Tipografia: 
 
