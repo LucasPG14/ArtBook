@@ -108,5 +108,5 @@ Paisajes:
 
 - Desierto/Prado
 
-Tipografia: 
+Tipografia: Mximilian/MaximilianZier
 
